@@ -212,5 +212,11 @@
        <td>params</td>
        <td>Se ejecuta cuando se cliquea el botón de refresh.</td>
     </tr>
+    <tr>
+    	<td>onResetView</td>
+    	<td>reset-view.bs.table</td>
+    	<td>none</td>
+    	<td>Se ejecuta con el metodo ResetView y cuando se agrega o elimina un renglon</td>
+    </tr>
     </tbody>
 </table>
